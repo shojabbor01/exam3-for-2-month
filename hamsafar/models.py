@@ -18,6 +18,10 @@ class CompanionRequest(models.Model):
         verbose_name = 'Companion Request'
         verbose_name_plural = 'Companion Requests'
     
+<<<<<<< HEAD
+=======
+# Create your models here.
+>>>>>>> da08a20d44e8a15c8aba18f156946f435dfe50da
 
 class User(models.Model):
     username = models.CharField(max_length=50)
